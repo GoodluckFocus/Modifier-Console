@@ -15,7 +15,7 @@ bl_info = {
     "name" : "Modifier DM",
     "author" : "Goodluck Focus",
     "description" : "creates a quick dynamic search for modifier right from the 3d viewport",
-    "blender" : (2, 80, 0),
+    "blender" : (2, 82, 0),
     "version" : (0, 0, 1),
     "location" : "View 3D > UI",
     "warning" : "",
